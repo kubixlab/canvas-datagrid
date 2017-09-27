@@ -10,7 +10,6 @@ canvas-datagrid
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/TonyGermaneri/canvas-datagrid)
 
-* LA MIA PROVA
 * Support for millions of contiguous rows and columns without paging or loading.
 * Native support for touch devices (phones and tablets).
 * Extensible styling, filtering, formatting, resizing, selecting, and ordering.
