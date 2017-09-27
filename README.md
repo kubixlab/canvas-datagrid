@@ -4,7 +4,7 @@ canvas-datagrid
 [Demo](https://tonygermaneri.github.io/canvas-datagrid/tutorials/demo.html)
 
 ![canvas-datagrid](https://tonygermaneri.github.io/canvas-datagrid/images/datagrid1.png)
-
+## TEST
 [![Coverage Status](https://coveralls.io/repos/github/TonyGermaneri/canvas-datagrid/badge.svg?branch=master&build=1640)](https://coveralls.io/github/TonyGermaneri/canvas-datagrid?branch=master)
 [![NPM](https://img.shields.io/npm/v/canvas-datagrid.svg)](https://www.npmjs.com/package/canvas-datagrid)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
