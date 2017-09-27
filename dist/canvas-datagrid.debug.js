@@ -616,6 +616,7 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*jslint browser
 /*globals XMLSerializer: false, define: true, Blob: false, MutationObserver: false, requestAnimationFrame: false, performance: false, btoa: false*/
 !(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_RESULT__ = function () {
     'use strict';
+    
     return function (self) {
         var perfCounters = [],
             drawCount = 0,
@@ -3230,12 +3231,11 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*jslint browser
                     return self.activeCell;
                 }
             });
-            /**
-             * When true, the grid is has focus.
-             * @memberof canvasDatagrid
-             * @property hasFocus
-             * @readonly
-             */
+/**
+ * When true, the grid is has focus.
+ * @memberof canvasDatagrid
+ * @property hasFocus
+*/
             Object.defineProperty(self.intf, 'hasFocus', {
                 get: function () {
                     return self.hasFocus;
